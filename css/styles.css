@@ -1,3 +1,13 @@
 #letter {
   display: none;
 }
+
+#letter {
+  background-image: url("../parchment.jpg");
+  padding: 6vw;
+}
+
+.sincerely {
+  text-align: right;
+  padding-right: 15vw;
+}
